@@ -1,0 +1,19 @@
+{
+  "StockList": [
+    {
+      "Name": "Relience",
+      "Price": "2460",
+      "Qty": "10"
+    },
+    {
+      "Name"  : "SBI",
+      "Price" :"550",
+      "Qty" : "50"
+    },
+        {
+      "Name"  : "Maruti",
+      "Price" : "7800",
+      "Qty" : "10"
+    }
+  ]
+}
